@@ -29,7 +29,7 @@ python3 src/memory/proc_memory.py
 python3 src/filesystem/file_permissions.py
 python3 src/signals/signal_demo.py
 
-O `deadlock_demo.py` é intencionalmente bloqueante e deve ser terminado com Ctrl+C.
+O `deadlock_demo.py` bloqueia de propósito e tem de ser terminado com Ctrl+C.
 
 ## Autor
 Domingos Agostinho da Silva Pereira da Cunha
