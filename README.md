@@ -1,6 +1,6 @@
 # Sistemas Operativos Linux
 
-Estudo prático e computacional de conceitos fundamentais de Sistemas Operativos em ambiente Linux. O projeto combina processos, IPC,
+Estudo prático e computacional de conceitos básicos de SO em ambiente Linux. O projeto combina processos, IPC,
 threads, sincronização, deadlocks, memória, sistemas de ficheiros, sinais, monitorização, Bash e documentação técnica.
 
 ## Estrutura
